@@ -58,6 +58,7 @@ public class Main {
                 massive[i] += 1;
             {
                 System.out.println(massive[i]);
+                System.out.println("вроде бы все так");
             }
         }
     }
